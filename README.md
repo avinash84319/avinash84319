@@ -23,7 +23,7 @@ const avinash = {
 <br>
 
 [![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinash84319)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=avinash84319)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=avinash84319&card_width=400)](https://git.io/streak-stats)
 ---
 <p float="left">
 <img src="https://th.bing.com/th/id/OIP.bABrsHh713pkO2rq9NPbgQHaEO?pid=ImgDet&rs=1" width=400>
